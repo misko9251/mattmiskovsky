@@ -27,6 +27,14 @@
           </p>
         </td>
      </tr>
+    <tr>
+        <td width="50%">
+          <h3 align="center">OOP Tic-Tac-Toe</h3>
+          <p align="center">
+          <img min-width="400px" height="400px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/game.JPG">
+          </p>
+        </td>
+    </tr>
 
 
 <!-- https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG -->
