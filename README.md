@@ -28,6 +28,9 @@
           <p align="center">
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/byrd.JPG">
           </p>
+          <p align="center">
+          <img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png">  <img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png">
+          </p>
         </td>
      </tr>
     <tr>
@@ -36,11 +39,17 @@
           <p align="center">
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/game.JPG">
           </p>
+          <p align="center">
+          <img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png">  <img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png">
+          </p>
         </td>
         <td width="50%">
           <h3 align="center">Mobile Weather App</h3> 
           <p align="center">
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/weather.JPG">  
+          </p>
+          <p align="center">
+          <img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png">  <img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png">
           </p>
         </td>
     </tr>
