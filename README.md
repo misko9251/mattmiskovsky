@@ -40,7 +40,7 @@
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/game.JPG">
           </p>
           <p align="center">
-          <img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png">  <img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png">
+          <a href="https://github.com/misko9251/tic-tac-toe"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>  <a href="https://miskotictactoe.netlify.app/"><img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png"></a>
           </p>
         </td>
         <td width="50%">
@@ -49,7 +49,7 @@
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/weather.JPG">  
           </p>
           <p align="center">
-          <img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png">  <img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png">
+          <a href="https://github.com/misko9251/WeatherApp"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>  <a href="https://miskoweather.netlify.app/"><img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png"></a>
           </p>
         </td>
     </tr>
