@@ -8,4 +8,4 @@
 
 :eye: Passionate about web development and web accessibility
 
-:computer: Check out my portfolio, [misko.me]! (https://misko.me/)
+:computer: Check out my portfolio, [misko.me!](https://misko.me/)
