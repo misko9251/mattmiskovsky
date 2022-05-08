@@ -8,4 +8,4 @@
 
 :eye: Passionate about web development and web accessibility
 
-:computer: Check out my portfolio <a href="misko.me">misko.me</a>!
+:computer: Check out my portfolio <a href="misko.me" target ="_blank">misko.me</a>!
