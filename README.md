@@ -26,7 +26,7 @@
         <td width="50%">
           <h3 align="center">Local Restaurant Website</h3>
           <p align="center">
-          <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/byrd.JPG">
+          <img src="https://github.com/misko9251/misko9251/blob/main/images/byrd.jpg">
           </p>
           <p align="center">
           <img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png">
