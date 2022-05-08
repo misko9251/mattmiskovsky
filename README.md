@@ -20,7 +20,14 @@
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG">
           </p>
         </td>
-    </tr>
+
+        <td width="50%">
+          <h3 align="center">A Mobile Weather Application</h3>
+          <p align="center">
+          <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/weather.JPG">  
+          </p>
+        </td>
+     </tr>
 
 
 <!-- https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG -->
