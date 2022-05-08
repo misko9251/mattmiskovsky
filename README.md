@@ -4,6 +4,6 @@
 
 :wave: You can reach me at <a href="mailto:matt.miskovsky@gmail.com">matt.miskovsky@gmail.com</a>   
 
-:point_right: HTML, CSS, Javascript, React, Node, Express, MongoDB
+:brain: HTML, CSS, Javascript, React, Node, Express, MongoDB
 
-:muscle: Passionate about web development and web accessibility
+:eye: Passionate about web development and web accessibility
