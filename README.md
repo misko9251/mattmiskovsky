@@ -48,4 +48,4 @@
 <h3 align="center"><a href="https://www.linkedin.com/in/matthew-miskovsky-698044bb/"><img width="10%" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/linkedin.png"></a><a href="mailto: matt.miskovsky@gmail.com"><img width="10%" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/gmail.png"></a><a href="https://twitter.com/miskocodes"><img width="10%" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/twitter.png"></a><a href="https://github.com/misko9251"><img width="10%" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/github.png"></a></h3>
 
 
-<!-- https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG -->
+
