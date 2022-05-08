@@ -57,7 +57,7 @@
 </div>
 
 <h2>Lets Connect!</h2>
-<h3 align="center"><a href="https://www.linkedin.com/in/matthew-miskovsky-698044bb/"><img src="https://github.com/misko9251/misko9251/blob/main/images/linkedinsm.png></a> <a href="mailto: matt.miskovsky@gmail.com"><img src="https://github.com/misko9251/misko9251/blob/main/images/gmailsm.png"></a> <a href="https://twitter.com/miskocodes"><img src="https://github.com/misko9251/misko9251/blob/main/images/twittersm.png"></a> <a href="https://github.com/misko9251"><img src="https://github.com/misko9251/misko9251/blob/main/images/githubsm.png"></a></h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/matthew-miskovsky-698044bb/"><img src="https://github.com/misko9251/misko9251/blob/main/images/linkedinsm.png"></a> <a href="mailto: matt.miskovsky@gmail.com"><img src="https://github.com/misko9251/misko9251/blob/main/images/gmailsm.png"></a> <a href="https://twitter.com/miskocodes"><img src="https://github.com/misko9251/misko9251/blob/main/images/twittersm.png"></a> <a href="https://github.com/misko9251"><img src="https://github.com/misko9251/misko9251/blob/main/images/githubsm.png"></a></h3>
 
 
 
