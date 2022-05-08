@@ -15,7 +15,7 @@
   <table>
     <tr>
         <td width="50%">
-          <h3 align="center">90's Fun! The 'Dex</h3>
+          <h3 align="center">90's Fun! The Pokédex</h3>
           <p align="center">
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG">
           </p>
@@ -29,7 +29,7 @@
      </tr>
     <tr>
         <td width="50%">
-          <h3 align="center">OOP Tic-Tac-Toe</h3>
+          <h3 align="center">OOP Style Tic-Tac-Toe</h3>
           <p align="center">
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/game.JPG">
           </p>
