@@ -34,6 +34,12 @@
           <img min-width="400px" height="400px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/game.JPG">
           </p>
         </td>
+        <td width="50%">
+          <h3 align="center">Local Restaurant Website</h3>
+          <p align="center">
+          <img min-width="400px" height="400px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/byrd.JPG">
+          </p>
+        </td>
     </tr>
 
 
