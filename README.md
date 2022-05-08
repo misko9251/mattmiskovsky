@@ -21,9 +21,9 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">A Mobile Weather Application</h3>
+          <h3 align="center">Local Restaurant Website</h3>
           <p align="center">
-          <img min-width="400px" height="400px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/weather.JPG">  
+          <img min-width="400px" height="400px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/byrd.JPG">
           </p>
         </td>
      </tr>
@@ -35,9 +35,9 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Local Restaurant Website</h3>
+          <h3 align="center">A Mobile Weather Application</h3> 
           <p align="center">
-          <img min-width="400px" height="400px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/byrd.JPG">
+          <img min-width="400px" height="400px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/weather.JPG">  
           </p>
         </td>
     </tr>
