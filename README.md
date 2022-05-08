@@ -7,3 +7,5 @@
 :brain: HTML, CSS, Javascript, React, Node, Express, MongoDB
 
 :eye: Passionate about web development and web accessibility
+
+:computer: Check out my portfolio <a href="misko.me">misko.me</a>!
