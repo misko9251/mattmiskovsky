@@ -20,7 +20,6 @@
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG">
           </p>
         </td>
-
         <td width="50%">
           <h3 align="center">A Mobile Weather Application</h3>
           <p align="center">
