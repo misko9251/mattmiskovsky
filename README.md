@@ -29,7 +29,7 @@
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/byrd.JPG">
           </p>
           <p align="center">
-          <img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png">  <img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png">
+          <img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png">
           </p>
         </td>
      </tr>
