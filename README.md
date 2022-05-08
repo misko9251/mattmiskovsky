@@ -17,13 +17,13 @@
         <td width="50%">
           <h3 align="center">90's Fun! The 'Dex</h3>
           <p align="center">
-          <img height="300px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG">
+          <img width="300px" height="300px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG">
           </p>
         </td>
         <td width="50%">
           <h3 align="center">A Mobile Weather Application</h3>
           <p align="center">
-          <img height="300px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/weather.JPG">  
+          <img width="300px" height="300px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/weather.JPG">  
           </p>
         </td>
      </tr>
