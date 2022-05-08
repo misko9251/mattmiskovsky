@@ -18,7 +18,9 @@
           <h3 align="center">90's Fun! The Pokédex</h3>
           <p align="center">
           <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG">
-            <button>Repo</button>
+          </p>
+          <p aling="center">
+          <img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"><img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png">
           </p>
         </td>
         <td width="50%">
