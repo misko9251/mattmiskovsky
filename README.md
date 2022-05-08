@@ -11,3 +11,16 @@
 :computer: Check out my portfolio, [misko.me!](https://misko.me/)
 
 <h2>Current Projects</h2>
+<div align="center">
+  <table>
+    <tr>
+        <td width="50%">
+          <h3 align="center">90's Fun! The 'Dex</h3>
+          <p align="center">
+          <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG">
+          </p>
+        </td>
+    </tr>
+
+
+<!-- https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG -->
