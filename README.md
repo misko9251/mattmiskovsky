@@ -15,9 +15,9 @@
   <table>
     <tr>
         <td width="50%">
-          <h3 align="center">90's Fun! The Pokédex</h3>
+          <h3 align="center">Some Tasy Foodtrucks Upstate</h3>
           <p align="center">
-          <img src="https://github.com/misko9251/mattmiskovsky/blob/main/images/dex.JPG">
+          <img src="https://github.com/misko9251/misko9251/blob/main/images/foodtruck.gif">
           </p>
           <p align="center">
           <a href="https://github.com/misko9251/pokedex"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>  <a href="https://miskodex.netlify.app/"><img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png"></a>
