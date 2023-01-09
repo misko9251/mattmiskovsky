@@ -24,12 +24,12 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Local Restaurant Website</h3>
+          <h3 align="center">What's Up Epi Pup?</h3>
           <p align="center">
-          <img src="https://github.com/misko9251/misko9251/blob/main/images/byrd.jpg">
+          <img src="https://github.com/misko9251/Seizure-Logger">
           </p>
           <p align="center">
-          <img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png">
+          <a href="https://github.com/misko9251/Seizure-Logger"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>
           </p>
         </td>
      </tr>
