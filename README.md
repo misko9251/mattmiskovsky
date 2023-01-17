@@ -14,19 +14,19 @@
 <div align="center">
   <table>
     <tr>
-        <td width="100%">
+        <td width="50%">
           <h3 align="center">Some Tasy Foodtrucks Upstate</h3>
           <p align="center">
-          <img height="400px" width="400px" src="https://github.com/misko9251/misko9251/blob/main/images/foodtruck.gif">
+          <img height="300px" width="300px" src="https://github.com/misko9251/misko9251/blob/main/images/foodtruck.gif">
           </p>
           <p align="center">
           <a href="https://github.com/misko9251/foodtrucks"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>
           </p>
         </td>
-        <td width="100%">
+        <td width="50%">
           <h3 align="center">What's Up Epi Pup?</h3>
           <p align="center">
-          <img height="400px" width="400px" src="https://github.com/misko9251/misko9251/blob/main/images/seizures.gif">
+          <img height="300px" width="300px" src="https://github.com/misko9251/misko9251/blob/main/images/seizures.gif">
           </p>
           <p align="center">
           <a href="https://github.com/misko9251/Seizure-Logger"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>
