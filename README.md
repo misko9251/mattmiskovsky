@@ -8,7 +8,7 @@
 
 :eye: Passionate about web development and web accessibility
 
-:computer: Check out my portfolio, [misko.me!](https://misko.me/)
+<!-- :computer: Check out my portfolio, [misko.me!](https://misko.me/) -->
 
 <h2>Current Projects</h2>
 <div align="center">
