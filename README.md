@@ -24,23 +24,23 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">What's Up Epi Pup?</h3>
-          <p align="center">
-          <img height="300px" width="300px" src="https://github.com/misko9251/misko9251/blob/main/images/seizures.gif">
-          </p>
-          <p align="center">
-          <a href="https://github.com/misko9251/Seizure-Logger"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>
-          </p>
-        </td>
-     </tr>
-    <tr>
-        <td width="50%">
           <h3 align="center">Project Night Blog</h3>
           <p align="center">
           <img src="https://user-images.githubusercontent.com/101610922/212817744-f1ff551e-e0b3-422e-be07-5a99930c4a5f.gif">
           </p>
           <p align="center">
           <a href="https://github.com/LucasMERN/project-night-blog"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>
+          </p>
+        </td>
+     </tr>
+    <tr>
+        <td width="50%">
+          <h3 align="center">What's Up Epi Pup?</h3>
+          <p align="center">
+          <img height="300px" width="300px" src="https://github.com/misko9251/misko9251/blob/main/images/seizures.gif">
+          </p>
+          <p align="center">
+          <a href="https://github.com/misko9251/Seizure-Logger"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>
           </p>
         </td>
         <td width="50%">
