@@ -24,7 +24,7 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Project Night Blog</h3>
+          <h3 align="center">Social Media Blogging</h3>
           <p align="center">
           <img height="300px" width="300px" src="https://user-images.githubusercontent.com/101610922/212817744-f1ff551e-e0b3-422e-be07-5a99930c4a5f.gif">
           </p>
