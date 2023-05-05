@@ -15,12 +15,12 @@
   <table>
     <tr>
         <td width="50%">
-          <h3 align="center">Some Tasy Foodtrucks Upstate</h3>
+           <h3 align="center">Sports Tracker</h3> 
           <p align="center">
-          <img height="300px" width="300px" src="https://github.com/misko9251/misko9251/blob/main/images/foodtruck.gif">
+          <img height="300px" width="300px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/sports.gif">  
           </p>
           <p align="center">
-          <a href="https://github.com/misko9251/foodtrucks"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>
+          <a href="https://github.com/misko9251/sports-tracker"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>  <a href="https://miskoweather.netlify.app/"></a>
           </p>
         </td>
         <td width="50%">
@@ -35,21 +35,21 @@
      </tr>
     <tr>
         <td width="50%">
+          <h3 align="center">Some Tasy Foodtrucks Upstate</h3>
+          <p align="center">
+          <img height="300px" width="300px" src="https://github.com/misko9251/misko9251/blob/main/images/foodtruck.gif">
+          </p>
+          <p align="center">
+          <a href="https://github.com/misko9251/foodtrucks"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>
+          </p>
+        </td>
+        <td width="50%"> 
           <h3 align="center">What's Up Epi Pup?</h3>
           <p align="center">
           <img height="300px" width="300px" src="https://github.com/misko9251/misko9251/blob/main/images/seizures.gif">
           </p>
           <p align="center">
           <a href="https://github.com/misko9251/Seizure-Logger"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">Mobile Weather App</h3> 
-          <p align="center">
-          <img height="300px" width="300px" src="https://github.com/misko9251/mattmiskovsky/blob/main/images/weather.JPG">  
-          </p>
-          <p align="center">
-          <a href="https://github.com/misko9251/WeatherApp"><img src="https://github.com/misko9251/misko9251/blob/main/images/repobtn.png"></a>  <a href="https://miskoweather.netlify.app/"><img src="https://github.com/misko9251/misko9251/blob/main/images/sitebtn.png"></a>
           </p>
         </td>
     </tr>
